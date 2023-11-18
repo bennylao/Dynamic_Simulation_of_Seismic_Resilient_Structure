@@ -1,0 +1,2 @@
+# Dynamic_Simulation_of_Seismic_Resilient_Structure
+Bachelor's Final Dissertation
